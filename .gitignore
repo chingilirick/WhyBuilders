@@ -52,3 +52,14 @@ Thumbs.db
 *.bak
 full_codebase.txt
 whybuilder_api/.gitignore
+
+# Exports and temporary files
+*.txt
+full_*.txt
+export_*.sh
+project_structure.txt
+
+# Python
+*.pyc
+__pycache__/
+.env
