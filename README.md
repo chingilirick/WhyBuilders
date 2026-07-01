@@ -1,6 +1,8 @@
 # WhyBuilder
+<img width="1920" height="945" alt="HOME" src="https://github.com/user-attachments/assets/3402ccbc-93e1-4dd0-9199-8461a16a22d0" />
 
 **Decision infrastructure for the Nairobi rental market.**
+<img width="1920" height="945" alt="HOUSE" src="https://github.com/user-attachments/assets/85d4313a-626f-494d-a49d-062584cd2428" />
 
 ---
 
