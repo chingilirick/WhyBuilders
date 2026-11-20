@@ -471,7 +471,7 @@ unicorn==2.1.1
 Unidecode==1.4.0
 uritemplate==4.1.1
 urllib3==2.3.0
-urwid==2.6.16
+urwid==4.0.7
 uvicorn==0.32.0
 uvloop==0.21.0
 validators==0.20.0
