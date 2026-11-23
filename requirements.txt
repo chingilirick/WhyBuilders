@@ -190,7 +190,7 @@ pydantic==2.10.6
 pydantic-settings==2.8.1
 pydantic_core==2.27.2
 pyelftools==0.32
-Pygments==2.18.0
+Pygments==2.20.0
 PyGObject==3.50.0
 pyinotify==0.9.6
 pylsqpack==0.3.18
