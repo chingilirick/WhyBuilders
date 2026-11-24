@@ -487,7 +487,7 @@ websockets==15.0.1
 websploit==4.0.4
 Werkzeug==3.1.3
 wfuzz==3.1.0
-wheel==0.46.1
+wheel==0.46.2
 wifite==2.7.0
 wsproto==1.2.0
 wxPython==4.2.3
