@@ -64,7 +64,7 @@ Flask==3.1.1
 Flask-Compress==1.4.0
 Flask-RESTful==0.3.10
 Flask-SocketIO==5.5.1
-fonttools==4.57.0
+fonttools==4.60.2
 fqdn==1.5.1
 frozenlist==1.6.0
 fs==2.4.16
